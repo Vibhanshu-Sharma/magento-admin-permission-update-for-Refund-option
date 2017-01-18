@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+    <acl>
+        <resources>
+            <admin>
+                <children>
+                    <sales>
+                        <children>
+                            <order>
+                                <children>
+                                    <demac_adminpermissions translate="title" module="demac_adminpermissions">
+                                        <title>Custom Refund offline</title>
+                                    </demac_adminpermissions>
+                                </children>
+                            </order>
+                        </children>
+                    </sales>
+
+                </children>
+            </admin>
+        </resources>
+    </acl>
+</config>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<Demac_AdminPermissions>
+			<active>true</active>
+			<codePool>local</codePool>
+		</Demac_AdminPermissions>
+	</modules>
+</config>
