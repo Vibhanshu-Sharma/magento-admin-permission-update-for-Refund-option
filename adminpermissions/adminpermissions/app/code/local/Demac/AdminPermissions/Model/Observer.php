@@ -1,5 +1,4 @@
 <?php
-
 class Demac_AdminPermissions_Model_Observer
 {
 
