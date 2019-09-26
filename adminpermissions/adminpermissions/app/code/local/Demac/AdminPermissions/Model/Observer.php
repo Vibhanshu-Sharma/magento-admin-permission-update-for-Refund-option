@@ -3,7 +3,7 @@ class Demac_AdminPermissions_Model_Observer
 {
 
     /**
-     * Before we save the role, let's include our restrict value
+     * Before we save the role, let's include our restrict value hello vibs
      *
      * @param $observer
      */

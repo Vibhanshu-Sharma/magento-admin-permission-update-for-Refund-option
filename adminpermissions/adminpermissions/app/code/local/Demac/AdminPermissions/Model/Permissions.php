@@ -4,7 +4,7 @@ class Demac_AdminPermissions_Model_Permissions extends Mage_Core_Model_Abstract
 {
 
     /**
-     * Get all of the admin user region restrictions if they exist
+     * Get all of the admin user region restrictions if they exist hello kukki
      *
      * @param bool $user
      * @return array|bool
